@@ -2,7 +2,7 @@
 
 LASTMINUTE HELPER
 
-Description: Lastminute Helper is a Telegram-Chatbot that helps to pick a destination for a city trip. In the state of submission it comprises the following functions:
+Description: Lastminute Helper is a Telegram-Chatbot that helps to pick a destination for a city trip. Why don't you try it out and add him on Telegram under "GeoMaster" and have a chat ? In the state of submission it comprises the following functions:
 
 	- Introduction of it's function by entering "/start"
 	- Basic rule-based chit-chat
